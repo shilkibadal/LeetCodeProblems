@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -18,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0189-rotate-array) |
 ## Array
 |  |
