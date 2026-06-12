@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0383-ransom-note) |
 ## String
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
