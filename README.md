@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0383-ransom-note) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
