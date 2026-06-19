@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0274-h-index) |
+| [1732-find-the-highest-altitude](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 ## Linked List
 |  |
 | ------- |
