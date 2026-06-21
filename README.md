@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0274-h-index) |
 | [1732-find-the-highest-altitude](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1840-maximum-building-height) |
 ## Two Pointers
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0274-h-index) |
+| [1833-maximum-ice-cream-bars](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1840-maximum-building-height) |
 ## Divide and Conquer
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0135-candy) |
+| [1833-maximum-ice-cream-bars](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 ## Trie
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0274-h-index) |
+| [1833-maximum-ice-cream-bars](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 ## Database
 |  |
 | ------- |
