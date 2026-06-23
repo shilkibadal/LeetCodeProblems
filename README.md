@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0392-is-subsequence) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Linked List
 |  |
 | ------- |
