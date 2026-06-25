@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0619-biggest-single-number) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1633-percentage-of-users-attended-a-contest) |
 ## Binary Search
 |  |
