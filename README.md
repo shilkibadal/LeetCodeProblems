@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0274-h-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0135-candy) |
 | [1833-maximum-ice-cream-bars](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Trie
 |  |
 | ------- |
