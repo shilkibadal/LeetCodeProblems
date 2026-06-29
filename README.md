@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0169-majority-element) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
 |  |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0022-generate-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
