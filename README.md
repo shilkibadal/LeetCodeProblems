@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0125-valid-palindrome) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
