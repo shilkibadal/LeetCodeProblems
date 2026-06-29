@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0015-3sum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0169-majority-element) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Bit Manipulation
 |  |
