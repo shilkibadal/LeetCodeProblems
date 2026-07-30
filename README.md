@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0046-permutations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
