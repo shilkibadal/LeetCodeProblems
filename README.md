@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0202-happy-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shilkibadal/LeetCodeProblems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
