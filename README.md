@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0204-count-primes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1840-maximum-building-height) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0274-h-index) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Backtracking
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0204-count-primes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -346,4 +350,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
