@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0383-ransom-note) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0274-h-index) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1288-remove-covered-intervals) |
