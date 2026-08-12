@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0169-majority-element) |
+| [3719-longest-balanced-subarray-i](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
