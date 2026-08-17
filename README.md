@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1840-maximum-building-height) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [2029-stone-game-ix](https://github.com/shilkibadal/LeetCodeProblems/tree/master/2029-stone-game-ix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/shilkibadal/LeetCodeProblems/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shilkibadal/LeetCodeProblems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/shilkibadal/LeetCodeProblems/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0135-candy) |
 | [1833-maximum-ice-cream-bars](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/shilkibadal/LeetCodeProblems/tree/master/2029-stone-game-ix) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
 |  |
@@ -390,4 +394,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/shilkibadal/LeetCodeProblems/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/shilkibadal/LeetCodeProblems/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/shilkibadal/LeetCodeProblems/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/shilkibadal/LeetCodeProblems/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
