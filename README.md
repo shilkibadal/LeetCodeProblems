@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0204-count-primes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1840-maximum-building-height) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2029-stone-game-ix](https://github.com/shilkibadal/LeetCodeProblems/tree/master/2029-stone-game-ix) |
