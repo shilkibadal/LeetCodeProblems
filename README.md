@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0069-sqrtx) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0066-plus-one) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [1301-number-of-paths-with-max-score](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shilkibadal/LeetCodeProblems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
