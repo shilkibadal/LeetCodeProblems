@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0206-reverse-linked-list) |
 ## Counting Sort
 |  |
 | ------- |
