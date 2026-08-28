@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0204-count-primes) |
+| [1140-stone-game-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1840-maximum-building-height) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0274-h-index) |
+| [1140-stone-game-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0392-is-subsequence) |
+| [1140-stone-game-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -427,10 +431,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/shilkibadal/LeetCodeProblems/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/shilkibadal/LeetCodeProblems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -439,5 +445,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/shilkibadal/LeetCodeProblems/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
