@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2029-stone-game-ix](https://github.com/shilkibadal/LeetCodeProblems/tree/master/2029-stone-game-ix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shilkibadal/LeetCodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
 |  |
 | ------- |
