@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0274-h-index) |
+| [0414-third-maximum-number](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [1140-stone-game-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1301-number-of-paths-with-max-score) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0274-h-index) |
+| [0414-third-maximum-number](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/shilkibadal/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
