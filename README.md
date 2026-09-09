@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0202-happy-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0125-valid-palindrome) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0056-merge-intervals) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shilkibadal/LeetCodeProblems/tree/master/0169-majority-element) |
